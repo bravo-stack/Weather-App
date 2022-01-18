@@ -1,5 +1,8 @@
 // OpenWeather API. Do not share it publicly.
-const api = '81a389b07c112dfb025cd1e57529eec7';
+import apiKey from "./apikeystorage.js";
+// will have to ignore the apikeystorage.js file
+
+const api = "Input your apiKey";
 
 const iconImg = document.getElementById('weather-icon');
 const loc = document.querySelector('#location');
