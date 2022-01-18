@@ -1,5 +1,5 @@
 // OpenWeather API. Do not share it publicly.
-// // //import apiKey from "./apikeystorage.js";
+import apiKey from "./apikeystorage.js";
 // will have to ignore the apikeystorage.js file
 
 const api = "Input your apiKey";
